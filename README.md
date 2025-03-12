@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Android development but very much interested to learn more.
 - 💞️ I’m looking to collaborate on any project 
 - 📫 You can reach me on Instagram @_hildad
-- 😄 Languages learnt : Python, Javascript, Html, Css, Kotlin, C
+- 😄 Languages learnt : Python, Javascript, Html, Css, Kotlin, C ,
+- Currently learning : Python, Django, MySQL, PHP, and Android
 - ⚡ Fun fact: ...As much as I love coding I am more of an outdoor person.
 
 <!---
